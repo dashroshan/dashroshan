@@ -1,4 +1,4 @@
-[![Roshan's GitHub Banner](./assets/banner.jpg)](https://roshandash.ml)
+[![Roshan's GitHub Banner](./assets/roshan.jpg)](https://roshandash.ml)
 
 <p align="center">
 <a href="https://roshandash.ml"><img src = "https://badges.pufler.dev/visits/roshan1337d/roshan1337d" height = 30px></a>
