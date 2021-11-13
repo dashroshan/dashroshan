@@ -36,4 +36,12 @@
 <img src = "https://img.shields.io/badge/Flask-Page?style=flat&logo=flask&logoColor=white&color=008bb9" height = 30px>
 <img src = "https://img.shields.io/badge/FastAPI-Page?style=flat&logo=fastapi&logoColor=white&color=009385" height = 30px>
 </p>
-<hr>
+<hr><h3 align="center">Github Stats</h3>
+<p align="center">
+<img src = "https://github-readme-stats.vercel.app/api/?username=roshan1337d&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height = 150px>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=roshan1337d&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" height = 150px>  
+  
+  
+  
+  
+  
