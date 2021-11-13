@@ -13,9 +13,9 @@
 </p>
 <hr><h3 align="center">Databases</h3>
 <p align="center">
+<img src = "https://img.shields.io/badge/MySQL-Page?style=flat&logo=mysql&logoColor=white&color=008bb9" height = 30px>
 <img src = "https://img.shields.io/badge/PostgreSQL-Page?style=flat&logo=postgresql&logoColor=white&color=008bb9" height = 30px>
 <img src = "https://img.shields.io/badge/MongoDB-Page?style=flat&logo=mongodb&logoColor=white&color=4db33d" height = 30px>
-<img src = "https://img.shields.io/badge/MySQL-Page?style=flat&logo=mysql&logoColor=white&color=008bb9" height = 30px>
 </p>
 <hr><h3 align="center">Other Tools & Frameworks</h3>
 <p align="center">
