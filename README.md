@@ -15,6 +15,7 @@
 <p align="center">
 <img src = "https://img.shields.io/badge/MySQL-Page?style=flat&logo=mysql&logoColor=white&color=008bb9" height = 30px>
 <img src = "https://img.shields.io/badge/PostgreSQL-Page?style=flat&logo=postgresql&logoColor=white&color=008bb9" height = 30px>
+<img src = "https://img.shields.io/badge/SQLite-Page?style=flat&logo=sqlite&logoColor=white&color=008bb9" height = 30px>
 <img src = "https://img.shields.io/badge/MongoDB-Page?style=flat&logo=mongodb&logoColor=white&color=4db33d" height = 30px>
 </p>
 <hr><h3 align="center">Adobe Products</h3>
@@ -30,11 +31,15 @@
 <img src = "https://img.shields.io/badge/Replit-Page?style=flat&logo=replit&logoColor=white&color=56676e" height = 30px>
 <img src = "https://img.shields.io/badge/CLion-Page?style=flat&logo=clion&logoColor=white&color=0da96a" height = 30px>
 <img src = "https://img.shields.io/badge/Github-Page?style=flat&logo=github&logoColor=white&color=8d028d" height = 30px>
+<img src = "https://img.shields.io/badge/Heroku-Page?style=flat&logo=heroku&logoColor=white&color=6762a6" height = 30px>
+<img src = "https://img.shields.io/badge/WordPress-Page?style=flat&logo=wordpress&logoColor=white&color=21759b" height = 30px>
+<img src = "https://img.shields.io/badge/Bootstrap-Page?style=flat&logo=bootstrap&logoColor=white&color=563d7c" height = 30px>
 <img src = "https://img.shields.io/badge/HTML-Page?style=flat&logo=html5&logoColor=white&color=e44d26" height = 30px>
 <img src = "https://img.shields.io/badge/CSS-Page?style=flat&logo=css3&logoColor=white&color=264de4" height = 30px>
 <img src = "https://img.shields.io/badge/Discord API-Page?style=flat&logo=discord&logoColor=white&color=4169E1" height = 30px>
 <img src = "https://img.shields.io/badge/Flask-Page?style=flat&logo=flask&logoColor=white&color=008bb9" height = 30px>
 <img src = "https://img.shields.io/badge/FastAPI-Page?style=flat&logo=fastapi&logoColor=white&color=009385" height = 30px>
+<img src = "https://img.shields.io/badge/Pillow-Page?style=flat&logo=python&logoColor=white&color=3571a3" height = 30px>
 </p>
 <hr><h3 align="center">Github Stats</h3>
 <p align="center">
