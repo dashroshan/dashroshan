@@ -13,8 +13,15 @@
 </p>
 <hr><h3 align="center">Databases</h3>
 <p align="center">
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height = 60px>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height = 60px>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height = 60px>
+<img src = "https://img.shields.io/badge/PostgreSQL-Page?style=flat&logo=postgresql&logoColor=white&color=008bb9" height = 40px>
+<img src = "https://img.shields.io/badge/MongoDB-Page?style=flat&logo=mongodb&logoColor=white&color=4db33d" height = 40px>
+<img src = "https://img.shields.io/badge/MySQL-Page?style=flat&logo=mysql&logoColor=white&color=008bb9" height = 40px>
+</p>
+<hr><h3 align="center">Other Tools & Frameworks</h3>
+<p align="center">
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height = 60px>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height = 60px>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height = 60px>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height = 60px>
 </p>
 <hr>
