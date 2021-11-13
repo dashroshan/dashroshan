@@ -17,7 +17,7 @@
 <img src = "https://img.shields.io/badge/PostgreSQL-Page?style=flat&logo=postgresql&logoColor=white&color=008bb9" height = 30px>
 <img src = "https://img.shields.io/badge/MongoDB-Page?style=flat&logo=mongodb&logoColor=white&color=4db33d" height = 30px>
 </p>
-<hr><h3 align="center">Other Tools & Frameworks</h3>
+<hr><h3 align="center">Creative Tools</h3>
 <p align="center">
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height = 60px>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height = 60px>
