@@ -28,7 +28,10 @@
 <p align="center">
 <img src = "https://img.shields.io/badge/VSCode-Page?style=flat&logo=visualstudiocode&logoColor=white&color=008bb9" height = 30px>
 <img src = "https://img.shields.io/badge/Replit-Page?style=flat&logo=replit&logoColor=white&color=56676e" height = 30px>
+<img src = "https://img.shields.io/badge/CLion-Page?style=flat&logo=clion&logoColor=white&color=0da96a" height = 30px>
 <img src = "https://img.shields.io/badge/Github-Page?style=flat&logo=github&logoColor=white&color=8d028d" height = 30px>
 <img src = "https://img.shields.io/badge/Discord API-Page?style=flat&logo=discord&logoColor=white&color=4169E1" height = 30px>
+<img src = "https://img.shields.io/badge/Flask-Page?style=flat&logo=flask&logoColor=white&color=008bb9" height = 30px>
+<img src = "https://img.shields.io/badge/FastAPI-Page?style=flat&logo=fastapi&logoColor=white&color=009385" height = 30px>
 </p>
 <hr>
