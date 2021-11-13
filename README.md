@@ -17,11 +17,18 @@
 <img src = "https://img.shields.io/badge/PostgreSQL-Page?style=flat&logo=postgresql&logoColor=white&color=008bb9" height = 30px>
 <img src = "https://img.shields.io/badge/MongoDB-Page?style=flat&logo=mongodb&logoColor=white&color=4db33d" height = 30px>
 </p>
-<hr><h3 align="center">Creative Tools</h3>
+<hr><h3 align="center">Adobe Products</h3>
 <p align="center">
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height = 60px>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height = 60px>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height = 60px>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height = 60px>
+</p>
+<hr><h3 align="center">Other Tools & Frameworks</h3>
+<p align="center">
+<img src = "https://img.shields.io/badge/VSCode-Page?style=flat&logo=visualstudiocode&logoColor=white&color=008bb9" height = 30px>
+<img src = "https://img.shields.io/badge/Replit-Page?style=flat&logo=replit&logoColor=white&color=56676e" height = 30px>
+<img src = "https://img.shields.io/badge/Github-Page?style=flat&logo=github&logoColor=white&color=8d028d" height = 30px>
+<img src = "https://img.shields.io/badge/Discord API-Page?style=flat&logo=discord&logoColor=white&color=4169E1" height = 30px>
 </p>
 <hr>
