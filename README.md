@@ -13,8 +13,7 @@
 </p>
 <hr><h3 align="center">Databases</h3>
 <p align="center">
-<img src = "https://img.shields.io/badge/MySQL-Page?style=flat&logo=mysql&logoColor=white&color=f7a017" height = 30px>
-<img src = "https://img.shields.io/badge/PostgreSQL-Page?style=flat&logo=postgresql&logoColor=white&color=3364a1" height = 30px>
+<img src = "https://img.shields.io/badge/MySQL-Page?style=flat&logo=mysql&logoColor=white&color=0f80cc" height = 30px>
 <img src = "https://img.shields.io/badge/SQLite-Page?style=flat&logo=sqlite&logoColor=white&color=0f80cc" height = 30px>
 <img src = "https://img.shields.io/badge/MongoDB-Page?style=flat&logo=mongodb&logoColor=white&color=4db33d" height = 30px>
 </p>
