@@ -8,9 +8,9 @@
 <a href="https://www.instagram.com/roshan1337d/"><img src = "https://img.shields.io/badge/Instagram-Page?style=flat&logo=instagram&logoColor=white&color=DD2A7B" height = 30px></a>
 <hr><h3 align="center">Programming Languages</h3>
 
-| lang | ok |
-| --- | --- |
-| <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height = 60px> | ok |
+| Language | Tools and Frameworks |
+| :---: | --- |
+| <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height = 60px> | <img src = "https://img.shields.io/badge/Flask-Page?style=flat&logo=flask&logoColor=white&color=008bb9" height = 30px> <img src = "https://img.shields.io/badge/Django-Page?style=flat&logo=django&logoColor=white&color=135238" height = 30px> <img src = "https://img.shields.io/badge/FastAPI-Page?style=flat&logo=fastapi&logoColor=white&color=009385" height = 30px> <img src = "https://img.shields.io/badge/Pillow-Page?style=flat&logo=python&logoColor=white&color=3571a3" height = 30px> <img src = "https://img.shields.io/badge/Discord API-Page?style=flat&logo=discord&logoColor=white&color=4169E1" height = 30px> <img src = "https://img.shields.io/badge/Requests-Page?style=flat&color=a1438c" height = 30px> <img src = "https://img.shields.io/badge/Async Programming-Page?style=flat&color=633096" height = 30px>|
 | <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height = 60px> | ok |
 
 <hr><h3 align="center">Databases</h3>
