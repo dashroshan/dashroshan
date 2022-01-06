@@ -2,7 +2,7 @@
   Hello there
   <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">
 </h1>
-<p align="center">I am Roshan Dash, an undergraduate <b>Computer Science and Engineering</b> student currently in my 1st year at IIIT Bhubaneswar, India. I love to code, create things, solve problems and take on challenges to learn something new.</p>
+<p align="center">I am Roshan Dash, an undergraduate Computer Science and Engineering student currently in my 1st year at IIIT Bhubaneswar, India. I love to code, create things, solve problems and take on challenges to learn something new. I am a Python and C developer also skilled in animation, illustration, and graphic designing. I am learning JS/TS these days.</p>
 
 <p align="center">
 <a href="https://roshandash.ml"><img src = "https://badges.pufler.dev/visits/roshan1337d/roshan1337d" height = 30px></a>
