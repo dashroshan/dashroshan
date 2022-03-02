@@ -2,7 +2,7 @@
   Hello there
   <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">
 </h1>
-<p align="center">I am Roshan Dash, an undergraduate Computer Science and Engineering student currently in my 1st year at IIIT Bhubaneswar, India. I love to code, create things, solve problems and take on challenges to learn something new. I can code in Python, Js, C, C++ and also skilled in animation, illustration, and graphic designing. I am learning flutter these days.</p>
+<p align="center">I am Roshan Dash, an undergraduate Computer Science and Engineering student currently in my 1st year at IIIT Bhubaneswar, India. I love to code, create things, solve problems and take on challenges to learn something new. I can code in Python, C, C++ and also skilled in animation, illustration, and graphic designing. I am learning flutter these days.</p>
 
 <p align="center">
 <a href="https://roshandash.ml"><img src = "https://badges.pufler.dev/visits/roshan1337d/roshan1337d" height = 30px></a>
@@ -17,7 +17,6 @@
 | Language and Suite | Products and/or Frameworks |
 | :---: | :---: |
 | <img src = "https://img.icons8.com/color/60/000000/python--v1.png" height = 60px> | <img src = "https://img.shields.io/badge/Flask-Page?style=flat&logo=flask&logoColor=white&color=008bb9" height = 30px> <img src = "https://img.shields.io/badge/FastAPI-Page?style=flat&logo=fastapi&logoColor=white&color=009385" height = 30px> <img src = "https://img.shields.io/badge/Pillow-Page?style=flat&logo=python&logoColor=white&color=3571a3" height = 30px> <img src = "https://img.shields.io/badge/Discord API-Page?style=flat&logo=discord&logoColor=white&color=4169E1" height = 30px> <img src = "https://img.shields.io/badge/PyMongo-Page?style=flat&logo=mongodb&logoColor=white&color=4db33d" height = 30px> <img src = "https://img.shields.io/badge/Requests-Page?style=flat&color=a1438c" height = 30px> <img src = "https://img.shields.io/badge/Beautiful Soup-Page?style=flat&color=d17107" height = 30px> <img src = "https://img.shields.io/badge/Async Programming-Page?style=flat&color=633096" height = 30px>|
-| <img src = "https://img.icons8.com/color/60/000000/javascript--v1.png" height = 60px> | <img src = "https://img.shields.io/badge/Node-Page?style=flat&logo=nodedotjs&logoColor=white&color=83CD29" height = 30px> |
 | <img src = "https://img.icons8.com/color/60/000000/c-programming.png" height = 60px> | <img src = "https://img.shields.io/badge/Standard Libraries-Page?style=flat&color=633096" height = 30px> |
 | <img src = "https://img.icons8.com/color/60/000000/c-plus-plus-logo.png" height = 60px> | <img src = "https://img.shields.io/badge/Standard Libraries-Page?style=flat&color=633096" height = 30px> |
 | <img src="https://img.icons8.com/color-glass/60/000000/database.png" height=60px> | <img src = "https://img.shields.io/badge/MySQL-Page?style=flat&logo=mysql&logoColor=white&color=0f80cc" height = 30px> <img src = "https://img.shields.io/badge/SQLite-Page?style=flat&logo=sqlite&logoColor=white&color=0f80cc" height = 30px> <img src = "https://img.shields.io/badge/MongoDB-Page?style=flat&logo=mongodb&logoColor=white&color=4db33d" height = 30px> |
