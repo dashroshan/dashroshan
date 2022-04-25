@@ -13,9 +13,7 @@
 <a href="https://www.hackerrank.com/roshan1337d"><img src = "https://img.shields.io/badge/HackerRank-Page?style=flat&logo=hackerrank&logoColor=white&color=1ba94c" height = 30px></a>
 <a href="https://drive.google.com/file/d/1nZUHANOhim878ovl4iNR7oD-S-s0XCOa/view"><img src = "https://img.shields.io/badge/Resume-Page?style=flat&color=0E76A8" height = 30px></a>
 
-<!--
 ![](https://activity-graph.herokuapp.com/graph?username=roshan1337d&theme=xcode&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph)
--->
 
 | Language and Suite | Products and/or Frameworks |
 | :---: | :---: |
