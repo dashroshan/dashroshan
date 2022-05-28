@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=roshan1337d&show_icons=true&theme=dark&locale=en"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan1337d&show_icons=true&theme=dark&locale=en&layout=compact" height="195px"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan1337d&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
   </tr>
 </table>
 
