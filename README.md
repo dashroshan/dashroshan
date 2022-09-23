@@ -10,7 +10,7 @@
 ```py
 {
     name: 'Roshan Dash',
-    education: '1st year CSE undergrad at IIIT Bhubaneswar, India',
+    education: '2nd year CSE undergrad at IIIT Bhubaneswar, India',
     currentlyWorkingOn: 'Full stack Web and App development (MERN & Flutter)',
     otherSkills: ['Animation', 'Illustration', 'Graphic Designing'],
 }
