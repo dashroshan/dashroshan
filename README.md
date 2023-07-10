@@ -10,7 +10,7 @@
 ```py
 {
     name: 'Roshan Dash',
-    education: '2nd year CSE undergrad at IIIT Bhubaneswar, India',
+    education: '3rd year CSE undergrad at IIIT Bhubaneswar, India',
     currentlyWorkingOn: 'Full-stack web development and cloud computing',
     otherSkills: ['Animation', 'Illustration', 'Graphic Designing'],
 }
@@ -18,11 +18,11 @@
 
 <table align="center">
   <tr>
-    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=roshan1337d&theme=xcode&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph"></td>
+    <td colspan="2" align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dashroshan&theme=xcode&hide_border=false&area=true&custom_title=Github%20Contribution%20Graph"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=roshan1337d&show_icons=true&theme=dark&locale=en"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan1337d&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=dashroshan&show_icons=true&theme=dark&locale=en"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dashroshan&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
   </tr>
 </table>
 
